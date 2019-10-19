@@ -1,5 +1,0 @@
-baseURL = "https://demo.uicard.io/hugo-uilite-free/"
-languageCode = "en-us"
-title = "Chris"
-theme = "hugo-uilite"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
