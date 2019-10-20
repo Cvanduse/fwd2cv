@@ -23,16 +23,17 @@ title = "Hello · Christopher Van Dusen"
   posts = "posts/:slug/"
 
 [params]
-  author = "Christopher Van Dusen"
+  author = "Hello, I'm Chris!"
   email = "Cvanduse@gmail.com"
   description = "Landing Page"
-  bio = "First Row. \nSecond Row. \nThird Row."
+  bio = "Christopher \nVan Dusen \nThird Row."
   avatar = "img/avatar.jpg"
   favicon = "img/favicon.ico"
   error404 = "There is no such page."
 
   [params.contact]
-    github = "https://github.com/jdoe"
-    instagram = "https://instagram.com/jdoe"
-    twitter = "https://twitter.com/jdoe"
-    ello = ""
+    facebook = "https://www.facebook.com/cvanduse"
+    instagram = "https://www.instagram.com/fwd2cv/"
+    twitter = "https://twitter.com/FWD2CV"
+    pinterest = "https://www.pinterest.com/thesidereel/"
+    linkedin = "https://www.linkedin.com/in/cvanduse/"
