@@ -12,7 +12,7 @@ enableRobotsTXT = true
 editor = "nano"
 languageCode = "en"
 language = "en"
-theme = "somrat"
+theme = "vncnt-hugo"
 title = "Hello · Christopher Van Dusen"
 
 [blackfriday]
