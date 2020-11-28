@@ -57,8 +57,8 @@ html {
 	--border-color-softer: hsl(var(--theme-hue), 0%, 82%);	/* #d1d1d1		textarea,select,code,td,hr border	 */
 	
 	--background-color: GhostWhite;														/* transparent body background; textarea,select background */
-	--background-color-softer: hsl(var(--theme-hue), 0%, 95%);
-  --code-background: hsl(var(--theme-hue), 0%, 89%);			/* #f1f1f1 		code background*/
+	--background-color-softer: hsl(var(--theme-hue), 0%, 99%);
+  --code-background: hsl(var(--theme-hue), 0%, 99%);			/* #f1f1f1 		code background*/
 
 	--button-primary-color: white;
   
