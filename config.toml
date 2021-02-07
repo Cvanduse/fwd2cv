@@ -12,7 +12,7 @@ enableRobotsTXT = true
 editor = "nano"
 languageCode = "en"
 language = "en"
-theme = "liva-hugo"
+theme = "vncnt-hugo"
 title = "Hi · Christopher Van Dusen"
 
 [blackfriday]
@@ -38,5 +38,3 @@ title = "Hi · Christopher Van Dusen"
     pinterest = "https://www.google.com/"
     linkedin = "https://www.linkedin.com/in/cvanduse/"
     medium = "https://blog.fwd2cv.com"
-  
-  URL = www.amazon.com
