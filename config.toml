@@ -23,7 +23,7 @@ title = "Hi · Christopher Van Dusen"
   posts = "posts/:slug/"
 
 [params]
-  author = "T Hello, I'm Chris v3 test!"
+  author = "Hello, I'm Chris v1 test!"
   email = "Cvanduse@gmail.com"
   description = "Landing Page"
   bio = "Wake up early. Drink Coffee. Work Hard. \n  \nA Detroiter who is inspired by the hustle, loves building things from the rock bottom, and is constantly in search for another cup of coffee. Despite growing up on Motown, I actually prefer listening to Hip Hop and Jazz.  Definitely, rooted deep in the Motor City, but I still love to get out and explore different cities and experience new cultures."
@@ -38,5 +38,3 @@ title = "Hi · Christopher Van Dusen"
     pinterest = "https://www.google.com/"
     linkedin = "https://www.linkedin.com/in/cvanduse/"
     medium = "https://blog.fwd2cv.com"
-
-  
