@@ -1,0 +1,45 @@
+baseURL = "https://example.com/"
+# include content marked as draft
+buildDrafts = false
+# include content with publishdate in the future
+buildFuture = false
+# include content already expired
+buildExpired = false
+# enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs.
+relativeURLs = true
+disableRSS = true
+enableRobotsTXT = true
+editor = "nano"
+languageCode = "en"
+language = "en"
+theme = "vncnt-hugo"
+title = "Hi · Christopher Van Dusen"
+
+[blackfriday]
+  extensions = ["hardLineBreak"]
+
+[permalinks]
+  fixed = ":title/"
+  posts = "posts/:slug/"
+
+[params]
+  author = "Hello, I'm Chris v2 test!"
+  email = "Cvanduse@gmail.com"
+  description = "Landing Page"
+  bio = "Wake up early. Drink Coffee. Work Hard. \n  \nA Detroiter who is inspired by the hustle, loves building things from the rock bottom, and is constantly in search for another cup of coffee. Despite growing up on Motown, I actually prefer listening to Hip Hop and Jazz.  Definitely, rooted deep in the Motor City, but I still love to get out and explore different cities and experience new cultures."
+  avatar = "img/avatar.jpg"
+  favicon = "img/avatar.jpg"
+  error404 = "There is no such page."
+
+  [params.contact]
+    facebook = "https://www.facebook.com/cvanduse"
+    instagram = "https://www.instagram.com/fwd2cv/"
+    twitter = "https://twitter.com/FWD2CV"
+    pinterest = "https://www.google.com/"
+    linkedin = "https://www.linkedin.com/in/cvanduse/"
+    medium = "https://blog.fwd2cv.com"
+<<<<<<< HEAD
+=======
+
+    URL=amazon.com
+>>>>>>> parent of 2d711bd (Update config.toml)
