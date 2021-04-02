@@ -33,3 +33,9 @@ title = "John Doe · Landing Page"
     instagram = "https://instagram.com/jdoe"
     twitter = "https://twitter.com/jdoe"
     ello = ""
+
+ [params.contact]
+    github = "https://github.com/jdoe"
+    instagram = "https://instagram.com/jdoe"
+    twitter = "https://twitter.com/jdoe"
+    ello = ""
